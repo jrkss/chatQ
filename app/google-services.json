@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "231731652319",
+    "firebase_url": "https://chatq-ad58f.firebaseio.com",
+    "project_id": "chatq-ad58f",
+    "storage_bucket": "chatq-ad58f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:231731652319:android:4715f30863cfea4985ab6a",
+        "android_client_info": {
+          "package_name": "com.example.chatq"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "231731652319-oa1m4hnnp84vtrqt81kg8240n9a39a5e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBooChCsb5pohXiIOil03TFwQ8b6xSv_zE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "231731652319-oa1m4hnnp84vtrqt81kg8240n9a39a5e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
